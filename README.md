@@ -1,5 +1,11 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true" align="left" /> 
+<hr/>
+
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+<hr/>
 
 <!--
 ### Hi there 👋
