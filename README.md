@@ -3,19 +3,13 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true" align="left" />
+| <a href="https://github.com/pb-wd027/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&include_all_commits=true&hide_border=true" alt="Paul's github stats" /></a> | <a href="https://github.com/pb-wd027/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<br/>  
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=pb-wd027&&style=flat-square" align="left" />
-</div>  
-  
+<img src="https://komarev.com/ghpvc/?username=pb-wd027&&style=flat-square">
 
-<br/>  
 
-<div align="left"></div>
-<br />
 
 <!--
 ### Hi there 👋
