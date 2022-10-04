@@ -5,14 +5,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true" align="left" />
 
-<br />
+<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=pb-wd027&&style=flat-square" align="center" />
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=andreioxs&&style=flat-square" align="left" />
 </div>  
   
 
 <br/>  
+
+<div align="left"></div>
+<br />
 
 <!--
 ### Hi there 👋
