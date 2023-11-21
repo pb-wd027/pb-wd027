@@ -12,8 +12,8 @@
 
 
 <!--<img src="https://komarev.com/ghpvc/?username=pb-wd027&&style=flat-square"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027&layout=compact&theme=vision-friendly" align="left" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027&layout=compact&theme=vision-friendly" align="center" /> 
 
 
 
