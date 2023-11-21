@@ -3,7 +3,7 @@
 ## Github Stats
 
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true&hide_rank=true" />
-<img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027&layout=compact&hide_border=true&hide_progress=false" /> 
+<img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027&layout=compact&hide_border=true&hide_progress=true" /> 
 
 
 
