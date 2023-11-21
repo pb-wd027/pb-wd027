@@ -7,6 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027&layout=pie)](https://github.com/pb-wd027/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027&langs_count=8)
+
 
 
 
