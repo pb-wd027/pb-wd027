@@ -6,7 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027)
 
 
 
