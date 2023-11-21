@@ -4,7 +4,7 @@
 
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true&hide_rank=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027\&hide_border=true)
 
 
 
