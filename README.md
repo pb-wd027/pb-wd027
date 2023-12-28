@@ -2,8 +2,11 @@
 
 ## Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true&rank_icon=github" />
 
+<!--
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pb-wd027&show_icons=true&count_private=true&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pb-wd027\&hide_border=true)
 
 
